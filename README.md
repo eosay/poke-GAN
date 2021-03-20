@@ -1,5 +1,5 @@
 # poke-GAN
-A Vanilla Generative Adversarial Network(GAN) implemented in Pytorch that generates images of Pokemon. A GPU is highly recommended.
+A Vanilla Generative Adversarial Network(GAN) implemented in Pytorch that generates images of Pokemon
 
 <p align="center">
 <img src="/images/fake.jpg" width="500"><br>
